@@ -8,7 +8,7 @@ It demonstrates how to open and close a modal using React state. It blurs the ba
 ## Features
 
 - Controlled modal using `isOpen` prop
-- Close modal with a button
+- Close modal with the `Close it` button or by clicking the background
 - Styled with TailwindCSS
 - Reusable component design
 - Written in TypeScript for better type safety
@@ -17,9 +17,15 @@ It demonstrates how to open and close a modal using React state. It blurs the ba
 
 Here’s how the modal looks in action:
 
+
+before clicking.
+
 ![Modal Screenshot](public/screenShots/Main.png)
+
+after clicking.
+
 ![Modal Screenshot](public/screenShots/PopUp.png)
 
-Or as an animated demo:
+ an animated demo:
 
 ![Modal Demo](public/screenShots/LearningModal.gif)
