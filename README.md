@@ -20,12 +20,12 @@ Here’s how the modal looks in action:
 
 before clicking.
 
-![Modal Screenshot](public/screenShots/Main.png)
+![Modal Screenshot](frontend/public/screenShots/Main.png)
 
 after clicking.
 
-![Modal Screenshot](public/screenShots/PopUp.png)
+![Modal Screenshot](frontend/public/screenShots/PopUp.png)
 
  an animated demo:
 
-![Modal Demo](public/screenShots/LearningModal.gif)
+![Modal Demo](frontend/public/screenShots/LearningModal.gif)
